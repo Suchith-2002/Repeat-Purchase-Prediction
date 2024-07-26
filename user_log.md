@@ -1,4 +1,4 @@
-## User Info Data
+## User Log Data
 
 ##### To download the *`user_log.csv`* file, click on the link below.
 
