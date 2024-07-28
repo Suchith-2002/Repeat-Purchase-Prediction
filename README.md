@@ -67,3 +67,12 @@
    ```bash
    jupyter notebook Code\ File.ipynb
    ```
+
+## Important Note on Project File Structure
+
+Please note that while the project files are organized in different folders, the code references them as if they are in the same directory. To ensure the code runs correctly, you should either:
+
+1. Place ***all files*** in the ***same directory***, or
+2. Adjust the ***file paths*** in the code to match the ***actual folder structure***.
+
+Thank you for your understanding.
