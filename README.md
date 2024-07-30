@@ -2,7 +2,7 @@
 
 ## Authors
 
-- ***Uppalapati Suchith Chowdary***
+- [Uppalapati Suchith Chowdary](https://github.com/Suchith-2002 "Suchith - Github")
 
 ## Project Overview
 
